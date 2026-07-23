@@ -41,7 +41,7 @@ I believe the best way to grow as an engineer is to **build consistently**. Ever
 
 ## 💡 Philosophy
 
-> *"Trush the process "*
+> *"Trust the process "*
 
 Progress doesn't happen overnight. Every challenge, bug, failed attempt, and completed project is part of becoming a better developer. I believe that consistency, curiosity, and continuous improvement lead to meaningful growth over time.
 
