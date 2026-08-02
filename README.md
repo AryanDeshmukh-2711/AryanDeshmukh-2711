@@ -25,7 +25,7 @@ I believe the best way to grow as an engineer is to **build consistently**. Ever
 * System Design
 * Artificial Intelligence
 * Startups & Product Development
-* Open Source
+* Open Source 
 
 ---
 
