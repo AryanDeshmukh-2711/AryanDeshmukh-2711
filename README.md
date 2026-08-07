@@ -4,7 +4,7 @@ I'm a software developer passionate about building products, exploring new techn
 
 My interests lie in **Website development**, **cloud computing**, **system design**, and **AI**. I enjoy understanding how scalable systems work and constantly challenge myself by building projects that help me learn something new.
 
-I believe the best way to grow as an engineer is to **build consistently**. Every project I work on is an opportunity to improve my skills, experiment with new ideas, and gain practical experience.
+I believe the best way to grow as an engineer is to **build consistently**. Every project I work on is an opportunity to improve my skills, experiment with new ideas, and gain practical experience. 
 
 ---
 
