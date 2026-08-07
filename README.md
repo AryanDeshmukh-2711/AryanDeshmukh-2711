@@ -20,7 +20,7 @@ I believe the best way to grow as an engineer is to **build consistently**. Ever
 ## 🌱 Interests
 
 * Backend Engineering
-* Software Development 
+* Software Development  
 * Cloud Computing
 * System Design
 * Artificial Intelligence
