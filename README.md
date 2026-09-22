@@ -1,50 +1,9 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Aryan Deshmukh — Computer Science student and aspiring software engineer. I build complete products: AI tools, real-time systems and the web.">
+<p>
+<img src="assets/buildlog/header.png" width="100%" align="top" alt="$ whoami — Aryan Deshmukh, India. Computer Science student · aspiring software engineer. Education: B.Tech Computer Science &amp; Engineering, Parul University — 3rd year. Focus: AI tools · real-time systems · web products, built end to end. Now: taking BrandMitra to launch; going deeper into system design, cloud, AI. Open to: software engineering internships and full-time roles. I like building things all the way through — the idea, the code, the tests, and the page that explains it."><br>
+<a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/"><img src="assets/buildlog/linkedin.png" width="21.19%" align="top" alt="LinkedIn"></a><a href="mailto:aryandeshmukh2345@gmail.com"><img src="assets/buildlog/email.png" width="10.95%" align="top" alt="Email"></a><a href="#"><img src="assets/buildlog/resume.png" width="13.69%" align="top" alt="Résumé (coming soon)"></a><img src="assets/buildlog/nav-rest.png" width="54.16%" align="top" alt=""><br>
+<img src="assets/buildlog/stats.png" width="100%" align="top" alt="6 products built · 1,395+ automated tests · 23 technologies in my stack. 01 — Things I've built: 6 projects."><br>
+<img src="assets/buildlog/brandmitra.png" width="49.99%" align="top" alt="01 · AI product · private repo — BrandMitra: AI marketing for India's small businesses — writes posts in a shop's own voice and publishes them on schedule. 13 languages it writes in. 345 tests · ₹999/mo · Next.js."><a href="https://github.com/AryanDeshmukh-2711/Routify"><img src="assets/buildlog/routify.png" width="49.99%" align="top" alt="02 · Real-time system · SIH 2026 — Routify: honest bus tracking for the Himalayas, built for Smart India Hackathon 2026. 26 stops across 8 routes. 93 tests · real-time · installable. Code."></a><br>
+<a href="https://github.com/AryanDeshmukh-2711/Code-to-Diagram"><img src="assets/buildlog/code-to-diagram.png" width="49.99%" align="top" alt="03 · AI dev tool · local AI — Code to Diagram: turns a project description into matching UML diagrams and an IEEE-830 SRS, as PDF or Word. 8 UML diagram types. 680+ tests · PDF + Word · free. Code."></a><a href="https://github.com/AryanDeshmukh-2711/TechSpec"><img src="assets/buildlog/techspec.png" width="49.99%" align="top" alt="04 · Comparison engine · no account — TechSpec: compare phones, laptops and gadgets by what matters to you, with every score explained. 80 devices, 215 specs each. 277 tests · weighted scoring. Code."></a><br>
+<a href="https://draftxi-seven.vercel.app/play"><img src="assets/buildlog/draft-xi.png" width="49.99%" align="top" alt="05 · Web game · live — Draft XI: a World Cup draft game you can play now. 559 players from 16 nations. 8 formations · 1970 → 2026. Play."></a><a href="https://github.com/AryanDeshmukh-2711/portfolio"><img src="assets/buildlog/portfolio.png" width="49.99%" align="top" alt="06 · Personal site · coming soon — Portfolio: who I am and what I've built, on one page. 1 page for everything. Next.js 16 · live GitHub graph."></a><br>
+<img src="assets/buildlog/philosophy-toolchain.png" width="100%" align="top" alt="02 — Philosophy. What I care about most: products that solve a real problem, and code that's clean enough for the next person to trust. Trust the process: 01 the idea, 02 the code, 03 the tests, 04 the page that explains it. 03 — Toolchain. Languages: TypeScript, JavaScript, Python, SQL. Frontend: React, Next.js, Vite, Tailwind CSS. Backend + data: Node.js, FastAPI, PostgreSQL, Supabase, Redis, MQTT. AI: Gemini, Ollama, pgvector. Tools: Docker, Vercel, GitHub Actions, Vitest, pytest, Git. Every card links to its code. BrandMitra's repository is private for now.">
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:aryandeshmukh2345@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://draftxi-seven.vercel.app/play"><img src="https://img.shields.io/badge/Play-Draft_XI-8B5CF6?style=flat-square" alt="Play Draft XI"></a>
-</p>
-
-<br>
-
-I'm a Computer Science student who likes building things all the way through — the idea, the code, the tests, and the page that explains it. Right now that means an AI marketing platform for India's small businesses and a bus tracker built for the Himalayas, plus the smaller products below.
-
-<br>
-
-## Things I've built
-
-<p align="center">
-  <img src="assets/projects/brandmitra.svg" width="49%" alt="BrandMitra: AI marketing for India's small businesses. Writes posts in a shop's own voice in 13 languages and publishes them on schedule.">
-  <a href="https://github.com/AryanDeshmukh-2711/Routify"><img src="assets/projects/routify.svg" width="49%" alt="Routify: honest bus tracking for the Himalayas, built for Smart India Hackathon 2026."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AryanDeshmukh-2711/Code-to-Diagram"><img src="assets/projects/code-to-diagram.svg" width="49%" alt="Code to Diagram: turns a project description into 8 matching UML diagrams and an IEEE-830 SRS, as PDF or Word."></a>
-  <a href="https://github.com/AryanDeshmukh-2711/TechSpec"><img src="assets/projects/techspec.svg" width="49%" alt="TechSpec: compare phones, laptops and gadgets by what matters to you, with every score explained."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AryanDeshmukh-2711/Draft-XI"><img src="assets/projects/draft-xi.svg" width="49%" alt="Draft XI: a World Cup draft game you can play now."></a>
-  <a href="https://github.com/AryanDeshmukh-2711/portfolio"><img src="assets/projects/portfolio.svg" width="49%" alt="Portfolio: who I am and what I've built, on one page."></a>
-</p>
-
-<p align="center"><sub>Click a card to see the code. BrandMitra's repository is private for now.</sub></p>
-
-<br>
-
-## What I work with
-
-<p align="center">
-  <img src="assets/tech.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, SQL. Frontend: React, Next.js, Vite, Tailwind CSS. Backend and data: Node.js, FastAPI, PostgreSQL, Supabase, Redis, MQTT. AI: Gemini, Ollama, pgvector. Tools: Docker, Vercel, GitHub Actions, Vitest, pytest, Git.">
-</p>
-
-<br>
-
-## Right now
-
-I'm taking **BrandMitra** from a tested engine to a launched product, and going deeper into system design, cloud and AI along the way. What I care about most: products that solve a real problem, and code that's clean enough for the next person to trust.
-
-<br>
-
-<p align="center"><sub>Want to talk about any of these? Find me on <a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/">LinkedIn</a> or <a href="mailto:aryandeshmukh2345@gmail.com">email me</a>.</sub></p>
