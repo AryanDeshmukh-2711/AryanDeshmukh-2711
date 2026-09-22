@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:aryandeshmukh2345@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://draftxi-seven.vercel.app/play"><img src="https://img.shields.io/badge/Play-Draft_XI-F0521F?style=flat-square" alt="Play Draft XI"></a>
+  <a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:aryandeshmukh2345@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email me"></a>
+  <a href="https://draftxi-seven.vercel.app/play"><img src="https://img.shields.io/badge/Play-Draft_XI-8B5CF6?style=flat-square" alt="Play Draft XI"></a>
 </p>
 
 <br>
@@ -36,7 +36,7 @@ I'm a Computer Science student who likes building things all the way through —
 ## What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,fastapi,postgres,supabase,redis,docker,vercel,githubactions,git&perline=8" alt="TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Supabase, Redis, Docker, Vercel, GitHub Actions and Git">
+  <img src="assets/tech.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, SQL. Frontend: React, Next.js, Vite, Tailwind CSS. Backend and data: Node.js, FastAPI, PostgreSQL, Supabase, Redis, MQTT. AI: Gemini, Ollama, pgvector. Tools: Docker, Vercel, GitHub Actions, Vitest, pytest, Git.">
 </p>
 
 <br>
@@ -47,7 +47,4 @@ I'm taking **BrandMitra** from a tested engine to a launched product, and going 
 
 <br>
 
-<p align="center">
-  <i>"Trust the process."</i><br>
-  <sub>Every bug, failed attempt and finished project is part of becoming a better engineer. Thanks for visiting.</sub>
-</p>
+<p align="center"><sub>Want to talk about any of these? Find me on <a href="https://www.linkedin.com/in/aryan-deshmukh-49b42628b/">LinkedIn</a> or <a href="mailto:aryandeshmukh2345@gmail.com">email me</a>.</sub></p>
